@@ -2,8 +2,8 @@
 	"contact": "testu",
 	"id": "testpatch",
 	"patches": {
-		"Marker": "See if the patch worked.",
-        "Examplepatch_Shared": "A shared patch"
+		"Examplepatch_1": "Placeholder-1",
+		"Marker": "See if the patch worked."
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/kuksattu/Small-test-repository/master/_patches-dwnld/"
