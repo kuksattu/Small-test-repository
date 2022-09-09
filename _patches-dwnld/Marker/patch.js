@@ -4,7 +4,7 @@
 	],
 	"id": "Marker",
 	"servers": [
-		"https://raw.githubusercontent.com/kuksattu/Small-test-repository/master/patches/Marker/"
+		"https://raw.githubusercontent.com/kuksattu/Small-test-repository/master/_patches-dwnld/Marker/"
 	],
 	"title": "See if the patch worked."
 }
