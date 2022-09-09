@@ -2,7 +2,7 @@
 	"contact": "testu",
 	"id": "testpatch",
 	"patches": {
-		"Examplepatch_1": "Placeholder-1",
+		"Examplepatch_Shared": "A shared patch",
 		"Marker": "See if the patch worked."
 	},
 	"servers": [
