@@ -2,7 +2,7 @@
 	"contact": "testu",
 	"id": "testpatch",
 	"patches": {
-		"Marker": "See if the patch worded."
+		"Marker": "See if the patch worked."
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/kuksattu/Small-test-repository/master/patches/"
