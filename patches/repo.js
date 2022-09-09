@@ -1,8 +1,8 @@
 {
-	"contact": "",
-	"id": "testu",
+	"contact": "testu",
+	"id": "testpatch",
 	"patches": {
-		"Marker": "A small patch to see if a patch directory works."
+		"Marker": "See if the patch worded."
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/kuksattu/Small-test-repository/master/patches/"
