@@ -1,7 +1,7 @@
 REM Totally didn't copy this from zero318
 @echo off
 setlocal EnableDelayedExpansion
-for /f "tokens=*" %%g in (.\_sharedpatches.txt) do (
+for /f "tokens=*" %%g in (.\sharedpatches.txt) do (
     echo ".\%%g" ".\_patches-dwnld\%%g"
     xcopy ".\%%g" ".\_patches-dwnld\%%g" /e /d /i /y /q
 )
